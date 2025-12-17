@@ -1,0 +1,4 @@
+# Forecasting World Population with Power BI
+This activity is taken from *Forecasting Sales* in Course 5: Data Analysis and Visualization with Power BI, part of the Microsoft Power BI Data Analyst Professional Certificate on Coursera. The exercise uses the WorldPopulation.pbix report, which contains historical global population data from 1960 to 2021, and is designed to demonstrate how predictive analytics can be integrated into existing Power BI reports to extend descriptive analysis into forward-looking insights.
+
+The exercise focuses on applying Power BI’s built-in forecasting capabilities to a time-series dataset through a line chart visualization. Key tasks include configuring temporal axes correctly, enabling and parameterizing the Forecast feature, defining forecast horizons and confidence intervals, and customizing forecast and confidence band aesthetics to align with report design standards.

@@ -1,0 +1,2 @@
+# Data Analysis Portfolio
+This repository contains all the work related to data analysis and statistics carried out by me. It includes the use of tools such as Excel, Power BI, Minitab, Python, and SQL.
