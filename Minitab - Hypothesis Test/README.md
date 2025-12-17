@@ -1,4 +1,4 @@
-# Hypothesis test for a Candy company with Minitab
+# Hypothesis test for a candy company with Minitab
 This exercise is drawn from "Análisis y diseño de experimentos" by Gutiérrez Pulido, specifically *Example 2.4, Weight of Sacks*. The problem presents a classical quality control and supplier compliance scenario, commonly used in statistical inference and experimental design courses. It reflects a real industrial context in which a buyer must statistically verify whether a supplier is meeting contractual specifications regarding product weight, using a small-sample hypothesis testing framework.
 
 The exercise focuses on applying inferential statistics to test a claim about a population mean under conditions of unknown variance and limited sample size.
